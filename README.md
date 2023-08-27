@@ -7,7 +7,7 @@ The **Whiteboard Delete Undo Buttons** is a simple web application that allows u
 - [Overview](#overview)
 - [Features](#features)
 - [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
+- [Prerequisites](#prerequisites)
   
 ## Overview
 
